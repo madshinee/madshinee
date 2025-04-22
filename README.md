@@ -52,7 +52,9 @@
   <strong>🚀 Quelques Projets</strong>
 </h3                                                                                                                     
 
-### 🔐 Cybersécurité (8 Projets)  
+
+### 🔐 CYBER
+
 
 | **🛡️ SIEM/SOAR/XDR Lab** | **🔒 Cyber Kill Chain** | **📶 Pentest Wi-Fi** |
 |----------------------------|--------------------------|------------------------|
@@ -66,7 +68,7 @@
 
   
 
-### 💻 Développement
+### 💻 DEV
 
 | **Portfolio** | **Jeux : 4 Images 1 Mot, Intrus, Agilité** |
 |----------------|---------------------------------------------|
